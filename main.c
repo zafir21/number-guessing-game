@@ -53,7 +53,7 @@ int main()
 
      } while (tolower(playAgain) == 'y');
 
-     printf("Thanks for palying my game! BYEEE! :)\n");
+     printf("Thanks for playing my game! BYEEE! :)\n");
 
      return 0;
 }
